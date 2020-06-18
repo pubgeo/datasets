@@ -1,5 +1,5 @@
-# Public Geospatial Data and Software
-This is a summary of public datasets, challenges, baselines, and winning solutions for projects that our team at JHU/APL has supported. Links are provided for more detailed information. We are grateful to [SpaceNet](https://spacenetchallenge.github.io/datasets/datasetHomePage.html), [IEEE DataPort](https://ieee-dataport.org/), and [Amazon](https://registry.opendata.aws/) for hosting these large datasets.
+# Public Challenges and Datasets
+This is a summary of public datasets and challenges that our team at JHU/APL has developed. Links are provided for more detailed information. We are grateful to [SpaceNet](https://spacenetchallenge.github.io/datasets/datasetHomePage.html), [IEEE DataPort](https://ieee-dataport.org/), and [Amazon](https://registry.opendata.aws/) for hosting these large datasets.
 
 ## IEEE GRSS Data Fusion Contest (2019)
 The 2019 Data Fusion Contest (DFC19), organized by the Image Analysis and Data Fusion Technical Committee (IADF TC) of the IEEE Geoscience and Remote Sensing Society (GRSS), the Johns Hopkins University (JHU), and the Intelligence Advanced Research Projects Activity (IARPA), aimed to promote research in semantic 3D reconstruction and stereo using machine intelligence and deep learning applied to satellite images. The DFC19 dataset is available on [IEEE DataPort](https://ieee-dataport.org/open-access/data-fusion-contest-2019-dfc2019). For more information about the dataset and baselines, please see our [WACV'19 paper](https://arxiv.org/abs/1811.08739).
